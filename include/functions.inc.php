@@ -7,4 +7,8 @@
 		exit();
 	}
 
+	function sanitize($value, $connection) {
+		return $connection->real_escape_string(filter_var(trim($value), FILTER_SANITIZE_STRING));
+	}
+
 ?>

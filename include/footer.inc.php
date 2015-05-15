@@ -1,9 +1,11 @@
-	</section><!-- /main_content -->
+		</section><!-- /main_content -->
 
 
-	<footer>
+		<footer>
 
-	</footer>
+		</footer>
+
+	</div>
 	
 </body>
 </html>
